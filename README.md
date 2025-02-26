@@ -1,0 +1,1 @@
+Simple BMP photo filter
